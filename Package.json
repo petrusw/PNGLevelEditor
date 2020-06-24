@@ -1,7 +1,0 @@
-{
-  "name": "leveleditor",
-  "version": "0.9.0",
-  "displayName": "Level Editor",
-  "description": "This is an example package",
-  "unity": "2019.4"
-}
